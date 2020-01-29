@@ -1,3 +1,4 @@
 # GrillBoosted
 
-add a badge (a link) to google colab
+Open in Google Colab
+https://colab.research.google.com/github/nebojsabozanic/GrillBoosted/blob/master/Grill.ipynb
